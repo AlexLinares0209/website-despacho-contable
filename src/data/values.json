@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "icon": "ri-focus-2-line",
+        "title": "Integridad",
+        "description": "Actuamos con honestidad y transparencia en cada una de nuestras interacciones."
+    },
+    {
+        "id": 2,
+        "icon": "ri-shake-hands-line",
+        "title": "Confidencialidad",
+        "description": "Protegemos la información de nuestros clientes con el máximo rigor y discreción."
+    },
+    {
+        "id": 3,
+        "icon": "ri-focus-2-line",
+        "title": "Precisión",
+        "description": "Nos obsesiona el detalle para garantizar resultados exactos y libres de errores."
+    },
+    
+    {
+        "id": 4,
+        "icon": "ri-shake-hands-line",
+        "title": "Compromiso",
+        "description": "Nos implicamos en el éxito de nuestros clientes como si fuera nuestro."
+    },
+    {
+        "id": 5,
+        "icon": "ri-lightbulb-line",
+        "title": "Innnovación",
+        "description": "Buscamos constantemente nuevas formas de mejorar nuestros servicios y procesos."
+    },
+    {
+        "id": 6,
+        "icon": "ri-line-chart-line",
+        "title": "Excelencia",
+        "description": "Nos esforzamos por superar las expectativas en todo lo que hacemos."
+    }
+
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "icon": "ri-file-marked-line",
+        "title": "Contabilidad General",
+        "description": "Mantenemos tus libros al día para una toma de decisiones informada y precisa.",
+        "urlName": "contabilidad-general"
+    },
+    {
+        "id": 2,
+        "icon": "ri-file-list-3-line",
+        "title": "Declaración de Impuestos",
+        "description": "Optimizamos tu carga fiscal y aseguramos el cumplimiento de todas tus obligaciones tributarias.",
+        "urlName": "declaracion-de-impuestos"
+    },
+    {
+        "id": 3,
+        "icon": "ri-line-chart-fill",
+        "title": "Asesoría Financiera",
+        "description": "Te ayudamos a planificar el futuro financiero de tu empresa con estrategias sólidas.",
+        "urlName": "asesoria-financiera"
+    },
+    {
+        "id": 4,
+        "icon": "ri-group-line",
+        "title": "Nomina y Seguridad Social",
+        "description": "Gestión de nóminas y cumplimiento de las obligaciones sociales de su empresa.",
+        "urlName": "nomina-y-seguridad-social"
+    }
+]

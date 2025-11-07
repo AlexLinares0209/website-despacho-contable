@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "image": "https://randomuser.me/api/portraits/men/85.jpg",
+        "user": "Juan Pérez",
+        "position": "CEO de Tech Solutions",
+        "comments": "Gracias a despacho contable, nuestra empresa ha logrado optimizar sus procesos financieros y crecer de manera sostenible."
+    },
+    {
+        "id": 2,
+        "image": "https://randomuser.me/api/portraits/women/8.jpg",
+        "user": "Maria Gómez",
+        "position": "Fundadora de EcoMarket",
+        "comments": "El equipo de despacho contable nos brindó una asesoría invaluable que nos permitió reducir costos y mejorar nuestra rentabilidad."
+    },
+    {
+        "id": 3,
+        "image": "https://randomuser.me/api/portraits/men/97.jpg",
+        "user": "Carlos Rodriguez",
+        "position": "Director Financiero de Inversiones Globales",
+        "comments": "Su enfoque personalizado y atención al detalle hicieron toda la diferencia en la gestión contable de nuestra empresa."
+    },
+    {
+        "id": 4,
+        "image": "https://randomuser.me/api/portraits/women/44.jpg",
+        "user": "Laura Fernández",
+        "position": "Gerente de Operaciones en Grupo Andino",
+        "comments": "Con su apoyo pudimos mantener nuestras finanzas en orden y tomar mejores decisiones estratégicas para el crecimiento del negocio."
+    },
+    {
+        "id": 5,
+        "image": "https://randomuser.me/api/portraits/men/47.jpg",
+        "user": "Ricardo Morales",
+        "position": "Coordinador Contable en AgroPerú",
+        "comments": "El servicio es excelente, siempre atentos y dispuestos a resolver cualquier duda o problema con rapidez y profesionalismo."
+    },
+    {
+        "id": 6,
+        "image": "https://randomuser.me/api/portraits/women/61.jpg",
+        "user": "Sofía Rivas",
+        "position": "Emprendedora y Fundadora de ArteVivo",
+        "comments": "Gracias a su asesoría, logré formalizar mi negocio y llevar un control eficiente de mis ingresos y gastos."
+    },
+    {
+        "id": 7,
+        "image": "https://randomuser.me/api/portraits/men/61.jpg",
+        "user": "Diego Castillo",
+        "position": "Administrador de Logística Andina",
+        "comments": "Su acompañamiento constante nos ha permitido cumplir con nuestras obligaciones fiscales sin contratiempos."
+    },
+    {
+        "id": 8,
+        "image": "https://randomuser.me/api/portraits/women/76.jpg",
+        "user": "Patricia León",
+        "position": "Socia Fundadora de León Consultores",
+        "comments": "Recomiendo totalmente sus servicios, son un equipo confiable y altamente calificado en el área contable y tributaria."
+    },
+    {
+        "id": 9,
+        "image": "https://randomuser.me/api/portraits/men/29.jpg",
+        "user": "Andrés Navarro",
+        "position": "Director General de Innovatech",
+        "comments": "Despacho contable nos ayudó a implementar una estructura financiera sólida que impulsó el crecimiento de nuestra startup."
+    },
+    {
+        "id": 10,
+        "image": "https://randomuser.me/api/portraits/women/26.jpg",
+        "user": "Valeria Cruz",
+        "position": "Contadora Independiente",
+        "comments": "El equipo brinda un servicio excepcional. Siempre actualizados y con soluciones adaptadas a cada cliente."
+    }
+]

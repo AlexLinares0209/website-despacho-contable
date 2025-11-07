@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "ri-flag-line",
+        "title": "2005 - Fundación del Despacho",
+        "description": "Con la misión de ofrecer servicios contables de excelencia y confianza."
+    },
+    {
+        "id": 2,
+        "icon": "ri-line-chart-line",
+        "title": "2012 - Expansión a Nuevos Mercados",
+        "description": "Ampliamos nuestros servicios para atender a empresas de mayor envergadura."
+    },
+    {
+        "id": 3,
+        "icon": "ri-computer-line",
+        "title": "2020 - Adopción de Tecnología de Punta",
+        "description": "Implementamos software de última generación para optimizar procesos y resultados."
+    },
+    {
+        "id": 4,
+        "icon": "ri-earth-line",
+        "title": "Hoy - Líderes en Asesoría Contable",
+        "description": "CReconocidos por nuestro compromiso, innovación y la satisfacción de nuestros clientes."
+    }
+]

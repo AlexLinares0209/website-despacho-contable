@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBchfGcIFlyJlDJk6drDzFAzsu-71AxsygQ_lPbYEFSLHBGcaexBvu3rAmkgsA9wI3vQaWknBwLOJuJcegY5JvpOLr0uNXhSbB_AoEkdvNA8eebYWOnO_35KSVewMwagQpsABCHACmd58P3eXz-0a_cFRhlMgl__vn7l_V4wpBBJ5C6luMDIQVS9CZlXsziQaB0fyJueXtYmXjBfaRdfhdhpoASsVeTDh5BwFwbv4snoNHeN0oT3vK1KIDDPXm-yE52xOGQDQQMJFjH",
+        "user": "Pedro Rodriguez",
+        "position": "CEO de Contabilidad S.A.",
+        "shortInformation": "Breve biografía del socio fundador, destacando su experiencia y especialidades."
+    },
+    {
+        "id": 2,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDzPmFHy3u_0HVLmBqUqC9vXBN8DJb6dWsIDqqNJ-Se3XUdDC39T6_S8zVmvTohbfFcXYJhSiaS5rkscXm3eJU6SpN7K9ulOrfdAS8AfEmTED4bdmKa2KQzTC2lhVQDc1qco93QUwD0OUkbmyya-_LaTVvH7CRPza1gtnBTagJ-6aW4m5fx-PW7Uuph2NvelPFEL6xyTgswqgCdJoc5mkaKa_sJyIZRdtM724dmijOS6O7eQwPPPeIEPlD_2vUO9BR1gO9loHndfhBf",
+        "user": "Pedro Rodriguez",
+        "position": "CEO de Contabilidad S.A.",
+        "shortInformation": "Breve biografía del socio fundador, destacando su experiencia y especialidades."
+    },
+    {
+        "id": 3,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD9pjUrDvICd6Di74qe76Lmp4aEeNnbtjKqejigG4idpyvGPRfshyYumHcK0mFi0tW2rdeApXbeJm8rF0iALVVS-DQVOoR_Na03yGFkA6UhXHxCMM27iyyWvViLwlpn-3vxUm04OIgsWJskISvln-gFsr_uGRkoWoC6zk5GiFJ3kJ0h_14TIZCN4M59AZv4LbTAntEZcVnVsqaWrVzCQRwic6QIMxkxkff9k542XmwTslRHAHuKbnEwx_l4J7wiPC07B7hN39VdB0Wv",
+        "user": "Pedro Rodriguez",
+        "position": "CEO de Contabilidad S.A.",
+        "shortInformation": "Breve biografía del socio fundador, destacando su experiencia y especialidades."
+    }
+]
