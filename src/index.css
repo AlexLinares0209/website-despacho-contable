@@ -419,6 +419,7 @@ body {
                 li {
                     color: white;
                     margin-bottom: 1rem;
+                    font-size: .9rem;
                 }
 
                 i {
@@ -432,6 +433,7 @@ body {
 
         p {
             color: white;
+            font-size: .9rem;
         }
 
     }
