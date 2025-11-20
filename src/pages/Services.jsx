@@ -1,13 +1,9 @@
-import { useEffect, useState } from "react"
 import Footer from "../components/layout/Footer"
 import Hero from "../components/ui/Hero"
 import ServicesList from "../components/ui/ServicesList"
 import CallToAction from "../components/ui/CallToAction"
 
-
 const Services = () => {
-
-    
 
     return (
         <div>

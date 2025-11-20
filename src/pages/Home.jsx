@@ -12,7 +12,7 @@ const Home = () => {
                 title="Contabilidad inteligente para el Crecimiento de tu Negocio"
                 subtitle="Soluciones contables a la medida para que te enfoques en lo que realmente importa." />
 
-            { /* service */}
+            { /* service */ }
 
             <div className="services">
                 <div className="services__content">
@@ -22,7 +22,7 @@ const Home = () => {
                         y la estabilidad financiera.
                     </p>
                     <ServicesList showLink={false} limit={3} />
-                    <Link to={"/services"} class="see-more-services">Ver todos los servicios</Link>
+                    <Link to={"/services"} className="see-more-services">Ver todos los servicios</Link>
                 </div>
             </div>
 

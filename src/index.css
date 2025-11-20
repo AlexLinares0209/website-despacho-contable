@@ -292,7 +292,7 @@ body {
 
         .testimonials__list {
             padding: 1.5rem 0;
-            
+
             display: flex;
             gap: 1rem;
 
@@ -313,7 +313,7 @@ body {
                         width: 5rem;
                         height: 5rem;
                     }
-                    
+
 
                     .testimonial-user-info {
                         h3 {
@@ -343,9 +343,9 @@ body {
         }
 
 
-    .testimonials__list--top {
-        padding-bottom: 0;
-    }
+        .testimonials__list--top {
+            padding-bottom: 0;
+        }
 
     }
 }
@@ -424,6 +424,7 @@ body {
                 i {
                     color: white;
                     font-size: 1.2rem;
+                    margin-right: .2rem
                 }
             }
 
@@ -761,7 +762,7 @@ textarea::placeholder {
         padding: 0 10%;
 
         .services__content {
-            
+
 
 
             h2 {
@@ -835,13 +836,7 @@ textarea::placeholder {
         font-size: 1.6rem;
     }
 
-    .timeline {
-        padding-left: 3rem;
-    }
 
-    .timeline::before {
-        left: 1.3rem;
-    }
 
     .icon {
         width: 36px;
@@ -855,6 +850,90 @@ textarea::placeholder {
 
     .content p {
         font-size: 1rem;
+    }
+
+    .testimonials {
+        padding: 0 10%;
+
+        .testimonials__content {
+            h2 {
+                font-size: 2rem;
+            }
+        }
+
+    }
+
+    .callToAction {
+        padding: 0 10%;
+    }
+
+    .footer {
+        padding: 0 10%;
+
+        .footer-list {
+            display: flex;
+            justify-content: space-between;
+
+        }
+
+    }
+
+    .team {
+        padding: 0 10%;
+
+        .team__content {
+
+            h2 {
+                font-size: 2rem;
+            }
+
+            .team__list {
+                padding: 1.5rem 0;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 1rem;
+            }
+        }
+
+    }
+
+    .trayectoria {
+        padding: 0 10%;
+
+        .trayectoria__content {
+            h2 {
+                font-size: 2rem;
+            }
+        }
+
+    }
+
+    .valores {
+        padding: 0 10%;
+
+        .valores__content {
+
+            h2 {
+                font-size: 2rem;
+            }
+
+            .valores-list {
+                padding: 1.5rem 0;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 1rem;
+            }
+        }
+
+    }
+
+    .contact {
+        background-color: white;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+        padding: 0 10%;
+        padding-top: 2rem;
     }
 
 }

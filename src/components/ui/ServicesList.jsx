@@ -1,33 +1,16 @@
-import { useEffect, useState } from "react"
 import servicesData from "../../data/services.json"
 import ServiceCard from "../ui/ServiceCard"
 
 const ServicesList = ({ showLink = true, limit = null }) => {
-
-    const [services, setServices] = useState([])
-
-    useEffect(() => {
-        const fetchServices = async () => {
-            await new Promise((resolve) => setTimeout(resolve, 100))
-            setServices(servicesData)
-        }
-
-        fetchServices()
-
-    }, [])
-
     // si se pasa un "limit", corta la cantidad de servicios mostrados
-    const displayedServices = limit ? services.slice(0, limit) : services;
+    const limit_of_services_to_display = limit ? servicesData.slice(0, limit) : servicesData
 
     return (
         <div className="services__list">
             {
-                displayedServices?.length > 0 && (
-                    displayedServices.map((service) => (
-                        <ServiceCard 
-                            key={service.id} 
-                            service={service} 
-                            showLink={showLink} />
+                limit_of_services_to_display?.length > 0 && (
+                    limit_of_services_to_display.map((service) => (
+                        <ServiceCard key={service.id} service={service} showLink={showLink} />
                     ))
                 )
             }
